@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/usr/code_tmp/AndroidStudio/Projects/CircleProgress/example/build/intermediates/exploded-aar/CircleProgress/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="7984cd4bffc5fd82ca24b9f8437f3cde3f277a55">
+        <dex dex="/usr/code_tmp/AndroidStudio/Projects/CircleProgress/example/build/intermediates/pre-dexed/debug/classes-9e92d2f20783300ce76e0dd9fa4adbc96972fa39.jar" />
+    </item>
+    <item
+        jar="/usr/code_tmp/AndroidStudio/Projects/CircleProgress/example/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/usr/code_tmp/AndroidStudio/Projects/CircleProgress/example/build/intermediates/pre-dexed/debug/classes-ed46fd39db532ff926f46216092f9d79ec1db2f5.jar" />
+    </item>
+    <item
+        jar="/usr/code_tmp/AndroidStudio/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/usr/code_tmp/AndroidStudio/Projects/CircleProgress/example/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-bc8fa2204725281de5b935d72a42c945b27f4d72.jar" />
+    </item>
+    <item
+        jar="/usr/code_tmp/AndroidStudio/Projects/CircleProgress/example/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/usr/code_tmp/AndroidStudio/Projects/CircleProgress/example/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-003052ef7e3b188d1ef4ae31dc82ffe480656625.jar" />
+    </item>
+    <item
+        jar="/usr/code_tmp/AndroidStudio/Projects/CircleProgress/example/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/usr/code_tmp/AndroidStudio/Projects/CircleProgress/example/build/intermediates/pre-dexed/debug/classes-5364accecae5c419ba4328be704c613544a6dc59.jar" />
+    </item>
+
+</items>
